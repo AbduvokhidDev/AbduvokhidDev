@@ -59,7 +59,7 @@
 
 ## 📫 Bog'lanish
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TELEGRAM_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbdusattorovAbduvohid)
 
 ---
 <p align="center">⭐ Loyihalarim yoqsa, yulduzcha qoldirishni unutmang!</p>
