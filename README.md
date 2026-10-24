@@ -46,14 +46,7 @@
 | [Products](https://github.com/AbduvokhidDev/products) | Mahsulotlar ilovasi | React |
 | [With Axios](https://github.com/AbduvokhidDev/with-axsios) | Axios bilan API so'rovlari | React, Axios |
 
-## 📊 GitHub statistikam
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbduvokhidDev&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbduvokhidDev&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-## 📫 Bog'lanish
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbdusattorovAbduvohid)
 
