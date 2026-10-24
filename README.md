@@ -1,19 +1,20 @@
-<h1 align="center">Assalomu Alaykum men Abduvohid 👋</h1>
-<p align="center">Full-stack dasturchi | React · Node.js · Express</p>
+<h1 align="center">Hello, I’m Abduvohid 👋 👋</h1>
+<p align="center">Full-stack Developer | React · Node.js · Express</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge" />
 </p>
 
-## 👨‍💻 Men haqimda
+## 👨‍💻 About Me
 
-- 💻 Full-stack dasturchiman: interfeysdan tortib serverdagi mantiqgacha o'zim yozaman
-- 🎨 Frontend: React, Redux Toolkit, Tailwind CSS bilan zamonaviy interfeyslar yarataman
-- ⚙️ Backend: Node.js va Express'da REST API, controller va route'lar yozaman
-- 🧱 MVC arxitekturasi va CRUD amallari bilan ishlayman
-- 🔌 Frontend va backend'ni Axios/fetch orqali bog'layman
-- 🚀 Loyihalarimni Vercel orqali deploy qilaman
-- 🐧 Kali Linux va VS Code'da ishlayman
+
+💻 I’m a full-stack developer: I build everything myself, from the interface to the server-side logic
+🎨 Frontend: I create modern interfaces with React, Redux Toolkit, and Tailwind CSS
+⚙️ Backend: I write REST APIs, controllers, and routes with Node.js and Express
+🧱 I work with MVC architecture and CRUD operations
+🔌 I connect the frontend and backend using Axios/fetch
+🚀 I deploy my projects with Vercel
+🐧 I work on Kali Linux and in VS Code
 
 ## 🛠 Texnologiyalar
 
